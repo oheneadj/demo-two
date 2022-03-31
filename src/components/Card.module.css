@@ -1,0 +1,57 @@
+.card{
+    background-color: white;
+    width: 50%;
+    height:30%;
+    margin: 10vh auto;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    -moz-box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    padding: 30px;
+}
+
+button{
+ background-color:black;
+ border:none;
+ color:white;
+ padding: 15px 20px;
+ font-size: medium;
+ box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    -moz-box-shadow: 4px 14px 5px -7px rgba(0,0,0,0.15);
+    transition: .3s;
+}
+
+button:hover{
+    cursor: pointer;
+    transition: .5s;
+    margin-top: 10px;
+    box-shadow: -8px 12px  #9ba3b3;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    font-size:medium;
+}
+
+p{
+    position: relative;
+    margin: 30px 10px;
+    line-height: 1.9em;
+}
+
+h1{
+    margin-top:20vh;
+    font-weight: 200;
+    line-height: 1.9em;
+}
+
+span{
+    background-color:black;
+    color: white;
+    padding: 5px 7px;
+}
