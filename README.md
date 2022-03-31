@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+### Live App Preview: [Random Advice App](https://cutt.ly/LDAHZCY)
+
 This app was developed using:
 1. Advice Slip JSON API: [Read Documentation](https://api.adviceslip.com/) 
 
@@ -24,4 +26,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 builds the application
+
+
 
