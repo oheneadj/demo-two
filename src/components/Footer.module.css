@@ -1,0 +1,27 @@
+ul {
+    margin: 20vh auto;
+
+}
+
+li {
+    list-style:none;
+    margin:15px;
+}
+
+
+
+a{
+    text-decoration:none;
+    color: gray;
+    line-height: 1.9em;
+}
+.github{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
