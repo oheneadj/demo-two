@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
         <ul styles={styles.ul}>
-            <li> App by <a className={styles.github}  target="_blank" href="https://oheneadjei.bio.link/">Ohene Adjei</a> with <a className={styles.github} target="_blank" href="https://api.adviceslip.com/">Advice Slip API</a>  </li>
+            <li> App by <a className={styles.github}  target="_blank" href="https://oheneadjei.bio.link/">Ohene Adjei</a></li>
         </ul>
     </div>
   )
