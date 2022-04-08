@@ -25,7 +25,7 @@ const handleCLick = () =>{
     
   return (
       <div>
-          <h1><span>Need An Sage?</span> <br/> Click on the button for an advice!</h1>
+          <h1><span>Need A Sage?</span> <br/> Click on the button for an advice!</h1>
         <div className={styles.card}>
             <p styles={styles.p}>{advice}</p>
             <button onClick={handleCLick} styles={styles.button}>Give An Advice</button>
